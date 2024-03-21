@@ -7,3 +7,7 @@ background-color:black;
 .container{
         text-align: center;
 }
+#results{
+        color:orange;
+        font-size: large;
+}
